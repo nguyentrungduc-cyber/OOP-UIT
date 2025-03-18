@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int SoSV;
+    int SoSV; // nhập số lượng sinh viên đi
     cout << "Nhap so sinh vien: ";
     cin >> SoSV;
 
